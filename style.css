@@ -31,10 +31,10 @@ form {
 }
 h4.title {
     background: #009fa5;
-    color: rgb(230, 255, 253);
+    color: #FFFFFF;
     text-align: center;
     padding: 10px;
-    font-size: 30px;
+    font-size: 25px;
 }
 .calculator_input {
     float: left;
